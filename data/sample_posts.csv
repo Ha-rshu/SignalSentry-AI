@@ -1,0 +1,9 @@
+post_id,timestamp,platform,text,engagement,source_type
+SYN-001,2026-11-01 09:15:00,DemoFeed,"Reminder: verify your account and password before the service update.",42,synthetic
+SYN-002,2026-11-01 10:30:00,DemoFeed,"Community volunteers are sharing the local event schedule.",18,synthetic
+SYN-003,2026-11-01 11:45:00,DemoFeed,"Urgent payment required today to unlock guaranteed investment returns.",96,synthetic
+SYN-004,2026-11-01 13:05:00,DemoFeed,"Please share this everywhere and copy and paste the same message.",71,synthetic
+SYN-005,2026-11-01 15:20:00,DemoFeed,"Download this file and install apk to claim your reward.",55,synthetic
+SYN-006,2026-11-02 08:10:00,DemoFeed,"The university library will remain open until 7 PM this week.",22,synthetic
+SYN-007,2026-11-02 09:40:00,DemoFeed,"Never share your OTP or login credentials with anyone.",63,synthetic
+SYN-008,2026-11-02 11:00:00,DemoFeed,"A student group is organizing a voluntary campus clean-up drive.",31,synthetic
